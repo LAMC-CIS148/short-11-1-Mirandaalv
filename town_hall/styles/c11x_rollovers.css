@@ -63,7 +63,6 @@ section p {
 	width: 260px;
 	height: 260px;
 	background-image: url('../images/sampson_dinosaur.jpg')
-	transition: background-image 0.3s ease;
 }
 .container:hover {
 	background-image: url('../images/sorkin_desk260.jpg')
