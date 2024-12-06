@@ -59,7 +59,21 @@ section h1 {
 section p {
 	padding-bottom: .5em;
 }
-
+.container {
+	width: 260px;
+	height: 260px;
+	background-image: url('../images/sampson_dinosaur.jpg')
+	transition: background-image 0.3s ease;
+}
+.container:hover {
+	background-image: url('../images/sorkin_desk260.jpg')
+}
+p {
+	width: 260px;
+	font-size: 16px;
+	line-height: 1.5;
+	margin-top: 10px;
+}
 /* the styles for the article */
 article {
 	padding: .5em 0;
