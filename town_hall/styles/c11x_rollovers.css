@@ -62,10 +62,10 @@ section p {
 .container {
 	width: 260px;
 	height: 260px;
-	background-image: url('town_hall/images/sampson_dinosaur.jpg')
+	background-image: url('../images/sampson_dinosaur.jpg')
 }
 .container:hover {
-	background-image: url('town_hall/images/sorkin_desk260.jpg')
+	background-image: url('../images/sorkin_desk260.jpg')
 }
 p {
 	width: 260px;
